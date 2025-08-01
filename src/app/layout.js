@@ -23,10 +23,10 @@ export default function RootLayout({ children }) {
       <body
         
       >
-<header><h1>This si header</h1> </header>
+
   
        {children} 
-        <footer><h1>This is footer</h1></footer>
+        <footer><h1>Thisssss is footer</h1></footer>
        
       </body>
     </html>
